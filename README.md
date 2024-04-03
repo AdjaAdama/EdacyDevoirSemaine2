@@ -1,4 +1,4 @@
-# DevoirSemaine3
+# DevoirSemaine2
 Objectif :
 
 Ce projet vise à développer une application web Angular pour simplifier la gestion des élèves, des classes et des inscriptions au Lycée d'Excellence de Dakar.
