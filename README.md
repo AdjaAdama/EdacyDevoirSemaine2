@@ -8,8 +8,8 @@ Fonctionnalités :
 Gestion des classes :
   Ajout, modification et suppression de classes.
   Gestion des élèves :
-  Inscription, modification et suppression d'élèves
-  Affectation des élèves aux classes.
+  Inscription, modification, suppression d'élèves,
+  affectation des élèves aux classes.
 Listes :
-  Affichage de la liste des élèves et des classes
+  Affichage de la liste des élèves et des classes qui existant dans l'ecole
   
